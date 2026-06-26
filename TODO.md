@@ -5,6 +5,8 @@
 - [x] Add email link (mailto:sordexcorutre@gmail.com) to CONTACT US
 - [x] Sanity check open index.html in browser
 - [x] Mark done
+- [ ] Fix WhatsApp link formatting if needed
+
 
 
 
